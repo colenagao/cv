@@ -1,0 +1,33 @@
+img {
+  border-radius: 60px;
+  float: left;
+  height: 120px;
+  margin-right: 20px;
+  width: 120px;
+}
+img:hover {
+  border-radius: 90px;
+  float: left;
+  height: 180px;
+  margin-right: 20px;
+  width: 180px;
+}
+body {
+  background-color: #FAECD6;
+}
+hr {
+  border-color: gray;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+h1,h2, h3 {
+    color: #4E6C50;
+}
+.pretty {
+  color: brown;
+}
+.ugly {
+  size: 3em;
+}
